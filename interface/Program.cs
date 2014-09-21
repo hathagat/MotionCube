@@ -17,7 +17,7 @@ namespace KinectTest01 {
         /// <param name="args"></param>
         static void Main(string[] args) {
 
-            Console.SetWindowSize(200, 69);
+            Console.SetWindowSize(80, 20);
 
             Console.WriteLine("Hallo Welt!");
            

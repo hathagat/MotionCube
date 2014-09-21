@@ -49,7 +49,7 @@ namespace KinectTest01 {
         /// Gute Werte: 60, 90 (bzw. 59/89)
         /// </summary>
         int delayTime =59;
-        int counater = 0;
+        int counter = 0;
 
         /// <summary>
         /// Wie groß das Bild ist, das Kinect aufnehmen soll.
